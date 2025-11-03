@@ -1,4 +1,4 @@
-🎯 My Project: HTML Boilerplate Essentials
+🎯 My Project: Odin_recipe
 
 What I'm doing: I'm creating the minimum basic structure for a webpage (the "boilerplate"). This means setting up the main parent elements (<html>, <head>, <body>) and filling the body with the most common elements.
 
